@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568487301161",
+    "firebase_url": "https://mansoura-5fcc0.firebaseio.com",
+    "project_id": "mansoura-5fcc0",
+    "storage_bucket": "mansoura-5fcc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568487301161:android:11ef6736466663b8390c38",
+        "android_client_info": {
+          "package_name": "com.example.mansoura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568487301161-f081ok4f6gninvg1jc6d9g2udul17qqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mansoura",
+            "certificate_hash": "5062dadfa6c2d09a97905129fb251cd8f54877e2"
+          }
+        },
+        {
+          "client_id": "568487301161-7t172at04ma0ud7fglfkq16ahrp0krum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOk7G8xlcFeYMffRJTQFfkK7zckpqPrXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568487301161-7t172at04ma0ud7fglfkq16ahrp0krum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">منصورة</string>
+    <string name="i_m_an_admin">أنا مشرف؟</string>
+    <string name="i_m_not_an_admin">أنا لست مشرفًا؟</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="remember_me">تذكرنى</string>
+    <string name="button">زر</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">افتح درج التنقل</string>
+    <string name="navigation_drawer_close">أغلق درج التنقل</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">رأس التنقل</string>
+    <string name="action_settings">إعدادات</string>
+
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_gallery">صالة عرض</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+    <string name="title_activity_hom">HomActivity</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_activity_seller_home">MainActivity</string>
+    <string name="title_home">عنوان الصفحة الرئيسية</string>
+    <string name="title_dashboard">لوحة القيادة</string>
+    <string name="title_notifications">إشعارات</string>
+    <string name="title_add" />
+</resources>
